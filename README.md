@@ -1,5 +1,5 @@
 # Dino
-STM32 project: autoplay for google dinosaur game with LDR and servo motor.
+STM32 project: autoplay for google dinossaur game with LDR and servo motor.
 
 # Servo motor configuration
 
